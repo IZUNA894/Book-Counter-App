@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Book-Counter-App/static/css/main.54d8cda7.chunk.css",
+    "main.js": "/Book-Counter-App/static/js/main.cf2c7abf.chunk.js",
+    "main.js.map": "/Book-Counter-App/static/js/main.cf2c7abf.chunk.js.map",
+    "runtime-main.js": "/Book-Counter-App/static/js/runtime-main.e1f6787d.js",
+    "runtime-main.js.map": "/Book-Counter-App/static/js/runtime-main.e1f6787d.js.map",
+    "static/js/2.fd9dc2eb.chunk.js": "/Book-Counter-App/static/js/2.fd9dc2eb.chunk.js",
+    "static/js/2.fd9dc2eb.chunk.js.map": "/Book-Counter-App/static/js/2.fd9dc2eb.chunk.js.map",
+    "index.html": "/Book-Counter-App/index.html",
+    "precache-manifest.d6c8bf7c815b9497afff38b111fd7c36.js": "/Book-Counter-App/precache-manifest.d6c8bf7c815b9497afff38b111fd7c36.js",
+    "service-worker.js": "/Book-Counter-App/service-worker.js",
+    "static/css/main.54d8cda7.chunk.css.map": "/Book-Counter-App/static/css/main.54d8cda7.chunk.css.map",
+    "static/js/2.fd9dc2eb.chunk.js.LICENSE.txt": "/Book-Counter-App/static/js/2.fd9dc2eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1f6787d.js",
+    "static/js/2.fd9dc2eb.chunk.js",
+    "static/css/main.54d8cda7.chunk.css",
+    "static/js/main.cf2c7abf.chunk.js"
+  ]
+}
