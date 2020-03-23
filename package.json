@@ -11,7 +11,11 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
+  "homepage":"https://izuna894.github.io/Book-Counter-App/",
+
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
